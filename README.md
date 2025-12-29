@@ -5,7 +5,7 @@ This project is a Business Intelligence dashboard and storytelling analysis buil
 Goal: turn raw data into actionable insights through a clear KPI structure and executive-ready visuals.
 
 ## Dataset
-- Source: Kaggle – [dataset name/link]
+- Source: Kaggle – https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Main fields: [time/date], [category/segment], [metric e.g. sales/revenue]
 
 ## What I built
