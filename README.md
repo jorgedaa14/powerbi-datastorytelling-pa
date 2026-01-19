@@ -75,17 +75,22 @@ By category, margin is ~**1%** in **Technology** and **Furniture**, while **Offi
 - **Tables (2017):** prioritize actions in the top loss states (review commercial conditions/discounts) before broad measures.
 - **Same Day (2017):** define **minimum margin thresholds by category** and adjust discounts/conditions when thresholds are not met.
 
-## Repository structure
-- `/images/` — Power BI dashboard screenshots used in the deck
-- `/docs/` — `slides.pdf` (executive presentation) and optional notes
-- `report.pbix` — Power BI report file (deliverable)
-- `/images/tableau/` — selected Tableau replicas
 
 ## How to run
 1. Download the dataset from Kaggle (link above).
 2. Open `report.pbix` with Power BI Desktop.
 3. If Power BI asks for the data source path, point it to the downloaded CSV file.
 4. Click **Refresh** and navigate the report pages.
+   
+## Repository structure
+- `/images/` — Power BI dashboard screenshots used in the deck
+- `/docs/` — `slides.pdf` (executive presentation) and optional notes
+- `report.pbix` — Power BI report file (deliverable)
+- `/images/tableau/` — selected Tableau replicas
+
+## Tableau
+Selected visuals were replicated in Tableau Public:
+- Tableau Public: 
    
 ## Tools & skills
 - **Power BI**
