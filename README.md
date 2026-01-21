@@ -83,10 +83,9 @@ By category, margin is ~**1%** in **Technology** and **Furniture**, while **Offi
 4. Click **Refresh** and navigate the report pages.
    
 ## Repository structure
-- `/images/` — Power BI dashboard screenshots used in the deck
+- `/images/` — Power BI dashboard screenshots used in the PPT
 - `/docs/` — `slides.pdf` (executive presentation) and optional notes
 - `report.pbix` — Power BI report file (deliverable)
-- `/images/tableau/` — selected Tableau replicas
 
 ## Tableau
 Selected visuals were replicated in Tableau Public:
