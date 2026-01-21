@@ -90,7 +90,7 @@ By category, margin is ~**1%** in **Technology** and **Furniture**, while **Offi
 
 ## Tableau
 Selected visuals were replicated in Tableau Public:
-- Tableau Public: 
+- Tableau Public: https://public.tableau.com/views/ProyectoAplicacionJorgeDavidArandaArroyoSTD/VisualPPT1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
    
 ## Tools & skills
 - **Power BI**
